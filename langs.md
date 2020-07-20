@@ -1,5 +1,5 @@
 # EuRoXy langs
-### this is so cool! Now I get my own blog page~
+### this is a test
 ## 中文
 我的母语是普通话，我还会讲闽南语
 
