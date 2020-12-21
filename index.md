@@ -1,6 +1,3 @@
-@def title = "EuRoXy"
-@def tags = ["syntax", "code"]
-
 # EuRoXy
 
 <!-- \toc -->
