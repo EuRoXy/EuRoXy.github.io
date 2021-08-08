@@ -2,62 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/langs\index.html</loc>
-    <lastmod>2021-06-12</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/.ipynb_checkpoints\index-checkpoint\index.html</loc>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/.ipynb_checkpoints\cuisine-checkpoint\index.html</loc>
-    <lastmod>2021-08-01</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/langs\index.html</loc>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/cuisine\index.html</loc>
-    <lastmod>2021-08-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/.ipynb_checkpoints\books-checkpoint\index.html</loc>
-    <lastmod>2021-08-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/index.html</loc>
-    <lastmod>2021-08-01</lastmod>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://tlienart.github.io/FranklinTemplates.jl/books\index.html</loc>
-    <lastmod>2021-08-01</lastmod>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/.ipynb_checkpoints\index-checkpoint\index.html</loc>
-    <lastmod>2021-08-01</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/404\index.html</loc>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/tag\code\index\</loc>
-    <lastmod>2021-06-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/tag\image\index\</loc>
-    <lastmod>2021-06-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://tlienart.github.io/FranklinTemplates.jl/tag\syntax\index\</loc>
-    <lastmod>2021-06-12</lastmod>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/index.html</loc>
+    <lastmod>2021-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>

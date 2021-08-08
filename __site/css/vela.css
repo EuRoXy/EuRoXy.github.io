@@ -43,7 +43,7 @@ a:hover {
 .pure-table,
 table {
   border-spacing: 0;
-/*   border-collapse: collapse; */
+  border-collapse: collapse;
 }
 
 html {
@@ -1270,8 +1270,7 @@ a.pure-button-selected {
 }
 
 .sidebar-nav {
-  background: #324A32;
-/*       #1f1f1f; */
+  background: #1f1f1f;
 }
 
 .sidebar-nav ul {
@@ -1319,9 +1318,9 @@ a.pure-button-selected {
   background: #2579c7c2;
 }
 
-/* .sidebar-nav .metismenu a[aria-expanded=true] {
+.sidebar-nav .metismenu a[aria-expanded=true] {
   background-color: #2579c7c2;
-} */
+}
 
 .sidebar-brand {
   line-height: 20px;
@@ -1347,7 +1346,7 @@ a.pure-button-selected {
   overflow-y: auto;
   width: 300px;
   min-height: 100vh;
-/*   -webkit-overflow-scrolling: touch; */
+  -webkit-overflow-scrolling: touch;
 }
 
 .slideout-menu-left {
@@ -1368,7 +1367,7 @@ a.pure-button-selected {
 .slideout-open,
 .slideout-open .slideout-panel,
 .slideout-open body {
-/*   overflow: hidden; */
+  overflow: hidden;
 }
 
 .slideout-open .slideout-menu {
