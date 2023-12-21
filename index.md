@@ -10,7 +10,7 @@ Based in Europe.
 
 ## Ro
 
-Moonlight [Dr. R. A.](http://numpde.xyz)
+Ro
 
 ## Xy
 
