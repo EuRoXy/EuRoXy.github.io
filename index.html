@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <!-- Linking the separate CSS file -->
+    <link rel="stylesheet" href="custom.css">
+</head>
+<body>
+
+    <div class="site-container">
+        
+        <!-- LEFT COLUMN: Sticky Navigation Sidebar (Ratio: 2) -->
+        <aside class="sidebar">
+            <h2>EuRoXy</h2>
+            <nav>
+                <ul class="nav-menu">
+                    <li><a href="#" class="active">code</a></li>
+                    <li><a href="#">research</a></li>
+                    <li><a href="#">write</a></li>
+                    <li><a href="#">read</a></li>
+                    <!-- <li><a href="#">speak</a></li>
+                    <li><a href="#">cook</a></li>
+                    <li><a href="#">travel</a></li> -->
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- RIGHT COLUMN: Main Content Area (Ratio: 8) -->
+        <main class="main-content">
+            <h1>Projects</h1>
+            
+            <!-- Project Gallery (3 per line) -->
+            <div class="project-gallery">
+
+                <!-- Card 1 -->
+                <div class="project-card">
+                    <h3>Lab Map</h3>
+                    <p>This app searches clinics or labs for certain services in a region on the web map.</p>
+                    <div class="project-buttons">
+                    <a href="https://lab-map-dach.streamlit.app/" target="_blank" class="btn-demo">Demo</a>
+                    <a href="https://github.com/EuRoXy/Lab-map" target="_blank" class="btn-github">Code</a>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="project-card">
+                    <div>
+                        <h3>Project Beta</h3>
+                        <p>A short 2-line intro description explaining what this tool achieves.</p>
+                    </div>
+                    <div class="project-buttons">
+                        <a href="#" target="_blank" class="btn-demo">Demo</a>
+                        <a href="#" target="_blank" class="btn-github">Code</a>
+                    </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="project-card">
+                    <div>
+                        <h3>Project Gamma</h3>
+                        <p>A short 2-line intro description explaining what this tool achieves.</p>
+                    </div>
+                    <div class="project-buttons">
+                        <a href="#" target="_blank" class="btn-demo">Demo</a>
+                        <a href="#" target="_blank" class="btn-github">Code</a>
+                    </div>
+                </div>
+
+            </div>
+        </main>
+
+    </div>
+
+</body>
+</html>
