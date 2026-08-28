@@ -181,16 +181,37 @@ body {
 }
 
 /* Academic Publication List Styles */
-.publication-list {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-    max-width: 800px;
-}
-
+/* CSS Styles */
 .pub-item {
     border-bottom: 1px solid #f4f4f5;
     padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.pub-container {
+    display: flex;
+    gap: 1.25rem;
+    align-items: flex-start;
+}
+
+.pub-thumbnail {
+    flex-shrink: 0;
+    width: 120px;
+    height: 80px;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid #e4e4e7;
+    background-color: #f4f4f5;
+}
+
+.pub-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.pub-content {
+    flex-grow: 1;
 }
 
 .pub-title {
@@ -205,7 +226,7 @@ body {
 }
 
 .pub-title a:hover {
-    color: #2563eb; /* Academic blue hover */
+    color: #2563eb;
     text-decoration: underline;
 }
 
@@ -221,7 +242,6 @@ body {
     margin-bottom: 0.75rem;
 }
 
-/* Action button pills (PDF, Code, BibTeX) */
 .pub-links {
     display: flex;
     gap: 0.5rem;
@@ -243,4 +263,14 @@ body {
     background-color: #f4f4f5;
     color: #000000;
     border-color: #a1a1aa;
+}
+
+@media (max-width: 640px) {
+    .pub-container {
+        flex-direction: column;
+    }
+    .pub-thumbnail {
+        width: 100%;
+        height: 140px;
+    }
 }
